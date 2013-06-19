@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://neocxi.github.io/atom.xml" rel="self"/>
-  <link href="http://neocxi.github.io/"/>
-  <updated>2013-06-18T22:28:10-07:00</updated>
-  <id>http://neocxi.github.io/</id>
+  <title><![CDATA[Meaningful Randomness]]></title>
+  <link href="http://xchen.me/atom.xml" rel="self"/>
+  <link href="http://xchen.me/"/>
+  <updated>2013-06-18T22:47:47-07:00</updated>
+  <id>http://xchen.me/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Peter Chen]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
