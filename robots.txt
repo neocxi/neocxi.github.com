@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://neocxi.github.io/xchen/sitemap.xml 
+Sitemap: http://neocxi.github.io/sitemap.xml 
