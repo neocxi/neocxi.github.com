@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Meaningful Randomness]]></title>
-  <link href="http://xchen.me/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Default | Meaningful Randomness]]></title>
+  <link href="http://xchen.me/blog/categories/default/atom.xml" rel="self"/>
   <link href="http://xchen.me/"/>
   <updated>2013-06-18T23:03:35-07:00</updated>
   <id>http://xchen.me/</id>
